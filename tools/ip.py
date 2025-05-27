@@ -10,5 +10,5 @@ def ip_look():
     stupid = input(f"{Fore.GREEN}[?]{Fore.BLUE} input ip adress:{Fore.RESET} ").lower()
     webbrowser.open(f'https://whatismyipaddress.com/ip/{ip}')
     time.sleep(5)
-    webbrowser.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
+    webbrowser.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ") # yes this is so funny
     
